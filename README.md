@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Diksha Chauhan</h1>
-<h3 align="center">MCA student| Aspiring Software Developer |AIML and DSA enthusiast</h3>
+<h3 align="center">MCA student| Aspiring Software Developer |AI-ML and DSA enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha507&label=Profile%20views&color=0e75b6&style=flat" alt="diksha507" /> </p>
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dikshaa507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshaa507" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diksha chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diksha chauhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diksha-chauhan-275044227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diksha chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/diksha_.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diksha_.5" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dikshach057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshach057" height="30" width="40" /></a>
 </p>
