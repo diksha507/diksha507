@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Diksha Chauhan</h1>
-<h3 align="center">MCA student| Delhi University Graduate | Aspiring Software Developer |AI-ML and DSA enthusiast</h3>
+<h3 align="center">MCA student | Delhi University Graduate | Aspiring Software Developer |AI-ML and DSA enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha507&label=Profile%20views&color=0e75b6&style=flat" alt="diksha507" /> </p>
 
