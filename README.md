@@ -34,4 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha507&" alt="diksha507" /></p>
 
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
