@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha507&" alt="diksha507" /></p>
 
-<iframe src="https://hackerrank-badge.herokuapp.com/diksha507" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+<iframe src="https://hackerrank-badge.herokuapp.com/diksha_ch_057" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
