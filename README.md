@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/dikshaa507" target="blank"><img src="https://img.shields.io/twitter/follow/dikshaa507?logo=twitter&style=for-the-badge" alt="dikshaa507" /></a> </p>
 
-- 🔭 I’m currently working on **GFG 160 days challenge**
+- 🔭 I’m currently working on **GFG 160 days challenge and Hackerrank 30 days of code**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **diksha.ch.057@gmail.com**
 
