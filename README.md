@@ -33,5 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha507&" alt="diksha507" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=diksha507)](https://git.io/streak-stats)
 
