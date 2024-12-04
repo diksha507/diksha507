@@ -31,6 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diksha507&show_icons=true&locale=en" alt="diksha507" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha507&" alt="diksha507" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha507&" alt="diksha507" /></p> 
 
 
